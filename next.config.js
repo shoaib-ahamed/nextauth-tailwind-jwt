@@ -1,7 +1,7 @@
 module.exports = {
   env: {
-    "NEXTAUTH_URL" : "https://next-auth-tailwind-boilerplate.vercel.app",
-    "BaseUrl": "http://localhost:3000",
+    "NEXTAUTH_URL" : "http://localhost:3000",
+    "BaseUrl": "https://next-auth-tailwind-boilerplate.vercel.app",
     "MONGO_URL" : "",
     "ACCESS_TOKEN_SECRET" : "shoaibahamed@gmail.com01672019292123412",
     "REFRESH_TOKEN_SECRET" : "shoaibahamed@gmail.com0167201929201303082197",
